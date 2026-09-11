@@ -132,13 +132,7 @@ The project explored machine learning for health-related signal classification i
 
 ---
 
-## 💼 Experience
 
-### Python / Machine Learning Internships
-
-Worked on practical development projects involving **Python, machine learning, web development, and backend technologies**, gaining experience in building and deploying software applications.
-
----
 
 ## 📚 Currently Learning
 
