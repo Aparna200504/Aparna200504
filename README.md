@@ -24,10 +24,22 @@ I'm currently focused on growing from **ML development → MLOps → Deep Learni
 
 ---
 
+📈 GitHub Activity
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aparna200504&show_icons=true&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna200504&layout=compact&hide_border=true" height="170"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Aparna200504&hide_border=true" /> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Aparna200504/Aparna200504/output/github-contribution-grid-snake.svg" /> </p>
+
+
 ## 🚀 Featured Projects
 
-### 🧠 XAI-Based Voice Deepfake Detection
-
+<details open>
+<summary><b>🧠 XAI-Based Voice Deepfake Detection</b></summary>
+<br>
 A deep learning system for detecting synthetic/AI-generated voices using **PyTorch and audio-based deep learning**.
 
 * Trained deep learning models on the **ASVspoof 2019 Logical Access** dataset
@@ -38,9 +50,14 @@ A deep learning system for detecting synthetic/AI-generated voices using **PyTor
 
 🔗 [View Project](https://www.linkedin.com/in/aparna-prasad-33554026a/details/projects/)
 
----
 
-### 🤖 AI Agent
+---
+</details>
+
+<details open>
+<summary><b>🤖 AI Agent — QueryPilot</b></summary>
+
+<br>
 
 An AI-powered assistant built using **Gemini and Python** to process user queries and provide intelligent responses.
 
@@ -53,7 +70,13 @@ An AI-powered assistant built using **Gemini and Python** to process user querie
 
 ---
 
-### 🏥 AI Complaint QMS
+
+</details>
+
+<details open>
+<summary><b>🏥 AI Complaint QMS</b></summary>
+
+<br>
 
 An AI-powered **Complaint & Quality Management System** designed to streamline complaint handling and intelligent workflow processing.
 
@@ -66,12 +89,18 @@ An AI-powered **Complaint & Quality Management System** designed to streamline c
 
 ---
 
-### 🎙️ Live Medical Scribe
+</details>
+
+<details open>
+<summary><b>🎙️ Live Medical Scribe</b></summary>
+
+<br>
 
 A real-time AI application that converts speech into structured clinical notes.
 
 * **Silero VAD** for voice activity detection
 * **faster-whisper** for speech-to-text
+* **Multilingual transcription**
 * **FastAPI WebSockets** for real-time communication
 * **Gemini** for structured clinical summarization
 * Pydantic-based structured output and guardrails
@@ -80,7 +109,12 @@ A real-time AI application that converts speech into structured clinical notes.
 
 ---
 
-### 🎬 Binge Recommendation System
+</details>
+
+<details>
+<summary><b>🎬 Binge Recommendation System</b></summary>
+
+<br>
 
 A content recommendation system that recommends movies/shows based on similarity between content attributes.
 
@@ -89,13 +123,20 @@ A content recommendation system that recommends movies/shows based on similarity
 * Cosine similarity for recommendations
 * Flask-based web application
 
-🔗 [View Project](https://github.com/Aparna200504/BingeRecommendation)
-🔗 [Live At](https://aparnanlp2.pythonanywhere.com/)
+🔗 **[GitHub Repository](https://github.com/Aparna200504/BingeRecommendation)** | 🔗
+**[Live Demo](https://aparnanlp2.pythonanywhere.com/)**
+
 
 
 ---
 
-### 🚗 Car Price Predictor
+</details>
+
+<details>
+<summary><b>🚗 Car Price Predictor</b></summary>
+
+<br>
+
 
 A machine learning application for predicting used-car prices.
 
@@ -105,8 +146,12 @@ A machine learning application for predicting used-car prices.
 * Deployed on AWS EC2
 
 ---
+</details>
 
-### 🛒 FestiveMart – MERN E-Commerce Platform
+<details>
+<summary><b>🛒 FestiveMart — MERN E-Commerce</b></summary>
+
+<br>
 
 A full-stack e-commerce application developed using the **MERN stack**.
 
@@ -115,8 +160,10 @@ A full-stack e-commerce application developed using the **MERN stack**.
 * MongoDB database
 * JWT-based authentication
 * Product and user management
-
+</details>
 ---
+
+
 
 ## 🏆 Hackathons & Achievements
 
@@ -154,24 +201,6 @@ My current goal is to move beyond standalone ML projects and learn how to build 
 
 ---
 
-## 🤝 Let's Connect
-
-📧 **Open to AI/ML, Machine Learning, Python Backend and MLOps opportunities**
-
-💼 [LinkedIn](https://www.linkedin.com/in/aparna-prasad-33554026a/)
-
-🐙 [GitHub](https://github.com/Aparna200504)
-
-
-📈 GitHub Activity
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aparna200504&show_icons=true&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna200504&layout=compact&hide_border=true" height="170"/> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Aparna200504&hide_border=true" /> </p>
-
-🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Aparna200504/Aparna200504/output/github-contribution-grid-snake.svg" /> </p>
 
 🤝 Let's Connect
 
@@ -183,9 +212,7 @@ My current goal is to move beyond standalone ML projects and learn how to build 
 
 </p>
 
-💼 Open to
-
-AI/ML · Machine Learning · Python Backend · MLOps
+💼 Open to AI/ML · Machine Learning · Python Backend · MLOps oppurtunities 
 
 <p align="center">
 
