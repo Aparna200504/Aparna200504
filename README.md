@@ -161,3 +161,34 @@ My current goal is to move beyond standalone ML projects and learn how to build 
 💼 [LinkedIn](https://www.linkedin.com/in/aparna-prasad-33554026a/)
 
 🐙 [GitHub](https://github.com/Aparna200504)
+
+
+📈 GitHub Activity
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aparna200504&show_icons=true&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna200504&layout=compact&hide_border=true" height="170"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Aparna200504&hide_border=true" /> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Aparna200504/Aparna200504/output/github-contribution-grid-snake.svg" /> </p>
+
+🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Aparna200504"> <img src="https://img.shields.io/badge/GitHub-Aparna200504-181717?style=for-the-badge&logo=github"> </a>
+
+<a href="https://www.linkedin.com/in/aparna-prasad-33554026a/"> <img src="https://img.shields.io/badge/LinkedIn-Aparna%20Prasad-0A66C2?style=for-the-badge&logo=linkedin"> </a>
+
+</p>
+
+💼 Open to
+
+AI/ML · Machine Learning · Python Backend · MLOps
+
+<p align="center">
+
+⭐ If you find something interesting here, feel free to explore the repositories!
+
+</p>
