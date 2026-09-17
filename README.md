@@ -26,13 +26,8 @@ I'm currently focused on growing from **ML development → MLOps → Deep Learni
 
 📈 GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aparna200504&show_icons=true&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna200504&layout=compact&hide_border=true" height="170"/> </p>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Aparna200504&hide_border=true" /> </p>
-
-🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Aparna200504/Aparna200504/output/github-contribution-grid-snake.svg" /> </p>
 
 
 ## 🚀 Featured Projects
