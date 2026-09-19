@@ -197,7 +197,7 @@ My current goal is to move beyond standalone ML projects and learn how to build 
 ---
 
 
-🤝 Let's Connect
+🤝 I would be happy to connect with you here ->
 
 <p align="center">
 
@@ -211,6 +211,7 @@ My current goal is to move beyond standalone ML projects and learn how to build 
 
 <p align="center">
 
-⭐ If you find something interesting here, feel free to explore the repositories!
+⭐ If you find something interesting here, feel free to explore the repositories! 
+
 
 </p>
