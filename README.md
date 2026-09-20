@@ -4,7 +4,7 @@
 
 I build **machine learning models, AI-powered applications, and backend systems**, with experience across model development, evaluation, APIs, and deployment.
 
-Focused on growing from **ML development → MLOps → Deep Learning → Transformers → LLMs & RAG**.
+Growing from **ML development → MLOps → Deep Learning → Transformers → LLMs & RAG**.
 
 ---
 
