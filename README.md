@@ -24,11 +24,6 @@ Growing from **ML development → MLOps → Deep Learning → Transformers → L
 
 ---
 
-📈 GitHub Activity
-
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Aparna200504&hide_border=true" /> </p>
-
 
 ## 🚀 Featured Projects
 
